@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Environment variable file
+.env
+
+# Generated files
+package-lock.json
+
+# Other user-specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
+
+# Add any other files or directories specific to your project that you don't want to include in version control
